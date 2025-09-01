@@ -24,7 +24,7 @@
     flex-wrap: wrap;
     gap: 8px 0;
   }
-  .items {
+  .item {
     width: 50%;
   }
 }
